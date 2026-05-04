@@ -8,7 +8,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy reading and drawing. 
 
 ## 🏆 Check Out My project Website
-- covid-19 Global impact dashboard []
+- covid-19 Global impact dashboard [https://github.com/osamwonyichristabel1-collab/Covid-19-Global-impact-dashboard]
 
 ## 🔭 What I'm Currently Working On
 - Covid-19 Global impact dashboard
