@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Christabel
+  
+## 🚀 About Me
+I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-<!--
-**osamwonyichristabel1-collab/osamwonyichristabel1-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-Here are some ideas to get you started:
+When I'm not working with data, I enjoy reading and drawing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Check Out My project Website
+- covid-19 Global impact dashboard []
+
+## 🔭 What I'm Currently Working On
+- Covid-19 Global impact dashboard
+- IMDB movie analysis dashboard
+- Supermarket sales dashboard
+- Building a professional data analyst portfolio that solves real world problem through the power of data
+
+## 🌱 Currently Learning
+- SQL
+- Advanced tableau
+- Python
+
+## Lets connect
+linkedin [https://www.linkedin.com/in/christabel-osamwonyi-271852403/]
