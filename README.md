@@ -9,6 +9,7 @@ When I'm not working with data, I enjoy reading and drawing.
 
 ## 🏆 Check Out my project Website
 - covid-19 Global impact dashboard [https://github.com/osamwonyichristabel1-collab/Covid-19-Global-impact-dashboard]
+- Titanic survival analysis [https://github.com/osamwonyichristabel1-collab/Titanic-Survival-Analysis]
 
 ## 🔭 What I'm Currently Working On
 - Covid-19 Global impact dashboard
